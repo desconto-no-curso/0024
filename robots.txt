@@ -6,3 +6,8 @@ Disallow:
 
 User-agent: Googlebot-Image
 Disallow:
+
+
+
+
+Sitemap: https://contracepcao-na-pratica.desconto-no-curso.com.br/sitemap.xml
